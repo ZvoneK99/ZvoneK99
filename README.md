@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there! 👋 I am Zvonimir, a third-year student of <br>Computer Science at the Faculty in Mostar. <br>I'm currently learning Object-Oriented Programming (OOP) <br>in Java but am more passionate about frontend development. <br>I enjoy working with technologies like React, React Native, <br>JavaScript, CSS, and HTML to build engaging and user-friendly <br>applications.<br>
+Hi there! 👋 I am Zvonimir, a third-year student of <br>
+Computer Science at the Faculty in Mostar. <br>
+I'm currently learning **JavaScript and React**, <br>
+focusing on frontend development. <br>
+I enjoy working with technologies like **HTML, CSS, JavaScript, <br>
+ React, React Native** to build engaging and user-friendly <br>
+applications. <br>
+
 
 
 
