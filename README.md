@@ -14,10 +14,4 @@ Computer Science at the Faculty in Mostar. <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZvoneK99&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZvoneK99&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=ZvoneK99&icon=4&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
