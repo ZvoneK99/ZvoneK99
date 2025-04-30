@@ -2,11 +2,10 @@
 👋 Hi there! I am Zvonimir, a third-year student of  
    Computer Science at the Faculty in Mostar.  
 
-🌱 I’m currently learning React + NextJS,  
-   focusing on frontend development.  
+🌱 I’m currently learning ASP.NET  
 
 ⚡ I enjoy working with technologies like HTML, CSS, JavaScript,  
-   React, and NextJS to build engaging and user-friendly applications.  
+   React, and ASP.NET to build engaging and user-friendly applications.  
 
 
 
