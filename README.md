@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I am Zvonimir, a third-year student of  <br>Computer Science at the Faculty in Mostar.<br><br>🌱 I’m currently learning C# and working with ASP.NET using .vb (Visual Basic).<br><br>💼 I’m currently doing an internship where I work on real-world ASP.NET projects.<br><br>⚡ I enjoy building user-friendly applications and expanding my knowledge in backend development with .NET technologies.<br>
+👋 Hi there! I’m Zvonimir, a Bachelor’s graduate in Computing from the Faculty in Mostar.<br>🌱 I’m currently learning C# and working with ASP.NET using .vb (Visual Basic).<br><br>💼 I’m currently working as a ASP.NET developer.<br><br>⚡ I enjoy building user-friendly applications and expanding my knowledge in backend development with .NET technologies.<br>
 
 
 ## 🌐 Socials:
