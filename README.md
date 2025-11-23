@@ -1,9 +1,6 @@
-# 💫 About Me:
-👋 Hi there! I’m Zvonimir, a Bachelor’s graduate in Computing from the Faculty in Mostar.<br>🌱 I’m currently learning C# and working with ASP.NET using .vb (Visual Basic).<br><br>💼 I’m currently working as a ASP.NET developer.<br><br>
-
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zvonekozull) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zvonimir-kozul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvone.kozull1999@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zvonimir-kozul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zvonekozull)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvone.kozull1999@gmail.com) 
 
 # 💻 Tech Stack:
 
